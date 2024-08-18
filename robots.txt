@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gitances.github.io/sitemap.html.gz
+Sitemap: https://gitances.github.io/app/sitemap.html.gz
+Sitemap: https://gitances.github.io/assets/sitemap.html.gz
+Sitemap: https://gitances.github.io/css/sitemap.html.gz
+Sitemap: https://gitances.github.io/includes/sitemap.html.gz
+Sitemap: https://gitances.github.io/item/sitemap.html.gz
+Sitemap: https://gitances.github.io/src/sitemap.html.gz
